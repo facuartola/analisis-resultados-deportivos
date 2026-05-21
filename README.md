@@ -87,3 +87,11 @@ El script genera automáticamente los siguientes archivos dentro de la carpeta `
 - Documentación del proyecto en README.
 - Uso de `.gitignore` para evitar archivos innecesarios.
 - Preparación del trabajo para commits trazables vinculados a issues de Jira.
+
+
+
+## Revisión y calidad
+
+Durante la revisión del proyecto se verificó que la estructura del repositorio respete las carpetas solicitadas por la consigna, que el script utilice rutas relativas y que los resultados se generen dentro de la carpeta correspondiente.
+
+También se controló que no se incluyan credenciales, tokens ni archivos sensibles en el repositorio, manteniendo buenas prácticas de seguridad y documentación.
