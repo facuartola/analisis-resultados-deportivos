@@ -1,0 +1,8 @@
+Resumen del campeonato deportivo
+=================================
+
+Cantidad de partidos analizados: 15
+Total de goles convertidos: 43
+Promedio de goles por partido: 2.87
+Equipo ubicado en primer lugar: Bullish FC
+Equipo con más partidos ganados: Bullish FC
